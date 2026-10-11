@@ -196826,9 +196826,7 @@
                 "built_year": "天保三年",
                 "built_year_ce": 1832,
                 "image": [
-                    "FjDKw91UoAA-1y5.jpg",
-                    "FjDKx6kUAAE6bm5.jpg",
-                    "FjDKys0UUAAvGx2.jpg"
+                    "FjDKw91UoAA-1y5.jpg"
                 ],
                 "project": [
                     "月待ビンゴ"
@@ -1100007,6 +1100005,303 @@
                 ],
                 "photo_date": "2026-09-30",
                 "mesh_code": 57400240
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43286,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.409768,
+                    38.439163
+                ]
+            },
+            "properties": {
+                "contributor": "豆人",
+                "created_at": "2026-10-11",
+                "address": "宮城県牡鹿郡女川町浦宿浜",
+                "city_code": 4581,
+                "place": "渓秀院参道わき",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄十二年",
+                "built_year_ce": 1699,
+                "image": [
+                    "IUZ8nBRnGcfc2mH8IBxgrQ5OYbkW7DPKKQfIxIbA.jpg",
+                    "MEiHMjVhDCZFZ1E24YZ4uOcTRqvdeDAuaWOB9VEY.jpg",
+                    "kD1om7HQeACk02puTvjywtPgbrSH7qKFmE54lFV4.jpg"
+                ],
+                "photo_date": "2026-10-11",
+                "mesh_code": 57415322
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43287,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.488636,
+                    38.443568
+                ]
+            },
+            "properties": {
+                "contributor": "豆人",
+                "created_at": "2026-10-11",
+                "address": "宮城県牡鹿郡女川町竹浦",
+                "city_code": 4581,
+                "place": "二渡神社・五十鈴神社鳥居わき",
+                "type": [
+                    "八大龍王塔"
+                ],
+                "built_year": "明治六年",
+                "built_year_ce": 1873,
+                "image": [
+                    "Z7uUwde1gpHiuw8y5gcGlRIu9RfFVOtVSeH53M4f.jpg",
+                    "o2kWXU3rTjj42YPSiZ3SbsNCwwLdlAb1lvt4fvv9.jpg"
+                ],
+                "photo_date": "2026-10-11",
+                "mesh_code": 57415339
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43288,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.879552,
+                    35.717205
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都江戸川区松本２丁目３１",
+                "city_code": 13123,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "明和七庚寅歳七月吉祥日",
+                "built_year_ce": 1770,
+                "figure": "青面金剛",
+                "comment": [
+                    "日月･邪鬼･三猿･二鶏･ｼｮｹﾗ　　願主　新五郎"
+                ],
+                "image": [
+                    "YvO2ZyUf8TTT99j1b5mNAEFx8QSu1VI7zflbErwg.jpg",
+                    "GKSocDha3F1A5L1fOxnL0XuxjP4xI6tVzMK0bRuv.jpg"
+                ],
+                "photo_date": "2026-10-07",
+                "mesh_code": 53394760
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43289,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.882062,
+                    35.710302
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都江戸川区大杉４丁目２５",
+                "city_code": 13123,
+                "place": "路傍",
+                "type": [
+                    "庚申塔",
+                    "道標"
+                ],
+                "built_year": "文化八年辛末正月",
+                "built_year_ce": 1811,
+                "figure": "青面金剛",
+                "comment": [
+                    "現当二世安楽　　道標を兼ねる〈台〉かハら道"
+                ],
+                "image": [
+                    "clifiMmB5BIVWky5Bqok4TELtCMKeTzncRqyXE4u.jpg",
+                    "vkRK8cObO7kFgduw6sng8HzGGrvRPSQJua5EJemX.jpg",
+                    "wPGzMHJTcXEvWtOR5B5kLBQWYs2CDWXBH82weTf1.jpg"
+                ],
+                "mesh_code": 53394750
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43290,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.664887,
+                    35.72102
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都中野区沼袋２丁目２８",
+                "city_code": 13114,
+                "place": "禅定院",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛文六丙午年十月廿六日",
+                "built_year_ce": 1666,
+                "comment": [
+                    "笠付角柱型　「奉供養庚申石塔二世安樂處」"
+                ],
+                "image": [
+                    "D3ZcRIkOg2ZnZ3310ksDeBhPBeVH1kkyny0Zsv2v.jpg",
+                    "hgoomcc74UIzdZ9a5p7zPXIKx3RjiIscFLdSdOp7.jpg",
+                    "YdYTBniW0x6ofNhb0KXaFps6ece9VSLBM5lc4Iy7.jpg"
+                ],
+                "photo_date": "2026-10-10",
+                "mesh_code": 53394563
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43291,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.658932,
+                    35.718664
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都中野区沼袋３丁目２１",
+                "city_code": 13114,
+                "place": "清谷寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "貞享四卯年十月吉日",
+                "built_year_ce": 1687,
+                "comment": [
+                    "笠付角柱型　「奉供養庚申待二世安樂所」　　武刕多麻郡沼袋村　願主矢嶋三郎右衛門　同岸仁兵衛　結衆廿人"
+                ],
+                "image": [
+                    "M7E8rNqAhX4eEooOwwxEQoDlKiBYxGoTTMiVBRpm.jpg",
+                    "bsmXI9bq8vw9CSigO5gvNXzpblZXAMjCGHbOnTbU.jpg"
+                ],
+                "mesh_code": 53394562
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43292,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.661443,
+                    35.723346
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都中野区沼袋４丁目３３－６",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔",
+                    "道標"
+                ],
+                "built_year": "正徳三癸巳年十一月吉日",
+                "built_year_ce": 1713,
+                "figure": "青面金剛",
+                "comment": [
+                    "武刕多麻郡江古田村　　日月邪鬼三猿二鶏ｼｮｹﾗ　道標：「左　さぎのミや」「右　中村道」"
+                ],
+                "image": [
+                    "8XdvKfHnaOENtarSXCjYNqci9P537Ne9cD3AuAn7.jpg",
+                    "kXgCOnNF2MQUAPZoaW0jHYQUmvxWxQwo73mdnI02.jpg",
+                    "mAZEyGHVp5FeYeRq4GiKauhqiNO1pCuCaAwTRw7z.jpg",
+                    "eUUaM2CwVPDY274L6c5hhiR86HprpyHGVCVZYHgi.jpg"
+                ],
+                "photo_date": "2026-10-10",
+                "mesh_code": 53394562
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43293,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.658809,
+                    35.719823
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都中野区野方４丁目１",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔",
+                    "道標"
+                ],
+                "built_year": "元文五年",
+                "built_year_ce": 1740,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立庚申尊像　　道標：「右　中村みち　左　中野道」"
+                ],
+                "image": [
+                    "6MMccyAPt3H7pMYU0SdxhcBlG0FuWQn677qf2VWt.jpg",
+                    "pcRDEMqY7lE5cQjunI0suEx23a2h3DSHBiiynd37.jpg",
+                    "7DRhxAO4FdcjzFjEkepzB5PyzaSpIpRSvUXcPNSr.jpg",
+                    "lxYAO4pzse9vvvATQaFz0twDw8LmmzXd37FOMSVg.jpg",
+                    "8NBZmb9mFCobisCZ9klRpMA37nkAH09hvSaEThqQ.jpg"
+                ],
+                "photo_date": "2026-10-10",
+                "mesh_code": 53394562
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43294,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.652076,
+                    35.721452
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-11",
+                "address": "東京都中野区野方６丁目２８",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "道標"
+                ],
+                "built_year": "寛延元戊辰天十月吉日",
+                "built_year_ce": 1748,
+                "comment": [
+                    "「奉供養庚申待二世安樂所」　念佛講中\/十人　武刕多摩郡上沼袋村　願主\/江川辰四良内　　道標「右中村ミち」「左さきのミやミち」"
+                ],
+                "image": [
+                    "7tpwYT7ZnEeuHdyYcqgblScXaFyR2myxVIdTEqo1.jpg",
+                    "yCWiDpvgpuKHsl83nD6x7PevkOLvq79mkDMu725P.jpg",
+                    "SKv4tJ5ZUvFCmw0TG6IwW3i8zZCOfSV2XVGVZZO9.jpg",
+                    "aMBom8ozsB1V6glbD4QIaAlFdqiDuu90g8EgWlHw.jpg",
+                    "wN1tJZKfApUW6cNsmT69rPFMqfONb7G61lEhWg9N.jpg"
+                ],
+                "mesh_code": 53394562
             }
         }
     ]
