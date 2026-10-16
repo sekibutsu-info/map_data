@@ -1099949,36 +1099949,6 @@
         },
         {
             "type": "Feature",
-            "id": 43284,
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140.252748,
-                    38.037742
-                ]
-            },
-            "properties": {
-                "contributor": "あべまき",
-                "created_at": "2026-10-08",
-                "address": "山形県東置賜郡高畠町大字二井宿",
-                "city_code": 6381,
-                "place": "大社神社",
-                "type": [
-                    "日待塔",
-                    "庚申塔"
-                ],
-                "comment": [
-                    "「庚申塔」"
-                ],
-                "image": [
-                    "PUPPjMK7ooCqQODbjApXGUieJ6SgW06AZr7Z6njW.jpg"
-                ],
-                "photo_date": "2026-09-30",
-                "mesh_code": 57400240
-            }
-        },
-        {
-            "type": "Feature",
             "id": 43285,
             "geometry": {
                 "type": "Point",
@@ -1100369,6 +1100339,100 @@
                 ],
                 "photo_date": "2026-09-23",
                 "mesh_code": 56392526
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43297,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.252748,
+                    38.037741
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-10-16",
+                "address": "山形県東置賜郡高畠町大字二井宿",
+                "city_code": 6381,
+                "place": "大社神社",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "comment": [
+                    "「庚申塔」"
+                ],
+                "image": [
+                    "S0dxbjd12xY75ZObslA7gGWWbvmiRC59eAEXzKM0.jpg"
+                ],
+                "photo_date": "2026-09-30",
+                "mesh_code": 57400240
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43298,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.25293,
+                    38.037993
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-10-16",
+                "address": "山形県東置賜郡高畠町大字二井宿",
+                "city_code": 6381,
+                "place": "大社神社",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "built_year": "安政四",
+                "built_year_ce": 1857,
+                "comment": [
+                    "「湯殿山」"
+                ],
+                "image": [
+                    "0XiQzQOe0UiTYOWe3qUIbZbyJ0oBZQigEgdlx1V3.jpg",
+                    "F9xgzVckADxR9oSX6IdBephw6yBsvZKqsddc0QS3.jpg"
+                ],
+                "photo_date": "2026-09-30",
+                "mesh_code": 57400240
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43299,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.252928,
+                    38.037989
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-10-16",
+                "address": "山形県東置賜郡高畠町大字二井宿",
+                "city_code": 6381,
+                "type": [
+                    "出羽三山塔",
+                    "八日塔"
+                ],
+                "built_year": "安永五",
+                "built_year_ce": 1776,
+                "comment": [
+                    "「八日講供養」"
+                ],
+                "image": [
+                    "Z9jX8ukxqJIckvBdzxpEXovdTGg4SCfmh0s5x5JQ.jpg"
+                ],
+                "photo_date": "2026-09-30",
+                "mesh_code": 57400240
             }
         }
     ]
