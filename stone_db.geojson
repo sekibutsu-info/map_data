@@ -1099099,8 +1099099,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.709319,
-                    37.522789
+                    139.709318,
+                    37.522805
                 ]
             },
             "properties": {
@@ -1099133,15 +1099133,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.709322,
-                    37.522788
+                    139.709329,
+                    37.522803
                 ]
             },
             "properties": {
                 "contributor": "holly_b503",
                 "created_at": "2026-10-05",
-                "address": "福島県河沼郡柳津町大字飯谷",
-                "city_code": 7423,
                 "place": "瑠璃光薬師如来堂前",
                 "type": [
                     "出羽三山塔",
@@ -1099157,6 +1099155,8 @@
                     "0fEosZB7AMeiFVbvvEL0WLsyL2bRCi4bk3fHcQwX.jpg"
                 ],
                 "photo_date": "2026-09-23",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
                 "mesh_code": 56392526
             }
         },
@@ -1100314,15 +1100314,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.709319,
-                    37.522789
+                    139.709342,
+                    37.522795
                 ]
             },
             "properties": {
                 "contributor": "holly_b503",
                 "created_at": "2026-10-13",
-                "address": "福島県河沼郡柳津町大字飯谷",
-                "city_code": 7423,
                 "place": "瑠璃光薬師如来堂前",
                 "type": [
                     "出羽三山塔",
@@ -1100338,6 +1100336,8 @@
                     "3G1nSy6OoBy0eCP7oYAxEYL2s2MRViRIOqEJaufb.jpg"
                 ],
                 "photo_date": "2026-09-23",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
                 "mesh_code": 56392526
             }
         },
@@ -1100604,6 +1100604,137 @@
                 ],
                 "photo_date": "2026-10-17",
                 "mesh_code": 56390608
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43306,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.709298,
+                    37.522768
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-18",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
+                "place": "瑠璃光薬師如来堂前",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "comment": [
+                    "「青面金剛」"
+                ],
+                "image": [
+                    "a2E0QjnPDtwzNWAm5KGBR68dniHY0IRfwO80l61G.jpg"
+                ],
+                "mesh_code": 56392526,
+                "photo_date": "2026-09-23"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43307,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.709006,
+                    37.522816
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-18",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
+                "place": "瑠璃光薬師如来堂",
+                "type": [
+                    "日待塔",
+                    "巳待塔"
+                ],
+                "built_year": "寛延二巳年",
+                "built_year_ce": 1749,
+                "comment": [
+                    "「巳待供養塔」"
+                ],
+                "image": [
+                    "XIxAhMWeQacMbPudsy4bSRtCxirIKmpV2qL3ky59.jpg",
+                    "bj31tMkdbVIIHAE1EJ9KV9xhpfRdUpLUIKszmHfW.jpg",
+                    "EXeGv5uANw2IisVpcnnQMhR758zWuRdaE7IBIl5w.jpg"
+                ],
+                "photo_date": "2026-09-23",
+                "mesh_code": 56392526
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43308,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70681,
+                    37.522277
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-18",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
+                "place": "稲荷神社",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "built_year": "元治元甲子年",
+                "built_year_ce": 1864,
+                "comment": [
+                    "「湯殿山供養」"
+                ],
+                "image": [
+                    "KsijbEEQS0JiFBRV5UUBk1nv0Bc0PbAwwby5NRkD.jpg",
+                    "YKNNyyZQXRqVyQSWESLwa2VR8nbQVmOJmPNWJmNq.jpg",
+                    "xK72fLo5ygscGY0wqxrIrDwxpzGqHOyE7qk1fOOz.jpg",
+                    "36fdW7eLJhYs9DVaafyrY6L6qhLQmSHcbG3Fzxhy.jpg"
+                ],
+                "photo_date": "2026-09-23",
+                "mesh_code": 56392526
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43309,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.706809,
+                    37.52228
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-18",
+                "address": "福島県河沼郡柳津町大字飯谷",
+                "city_code": 7423,
+                "place": "稲荷神社",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "built_year": "明治二巳年",
+                "built_year_ce": 1869,
+                "comment": [
+                    "「湯殿山」"
+                ],
+                "image": [
+                    "CfBuNH4eaDUxkJCnaN967GL2zV8XegLgivPAFJc0.jpg",
+                    "0juoeMRKwxrrszZDFVvER9qevMlX9NQ2hBY4DEQc.jpg"
+                ],
+                "mesh_code": 56392526
             }
         }
     ]
