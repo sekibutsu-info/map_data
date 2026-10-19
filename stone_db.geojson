@@ -1100736,6 +1100736,106 @@
                 ],
                 "mesh_code": 56392526
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43310,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.663299,
+                    35.682947
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-19",
+                "address": "東京都中野区南台３丁目４３",
+                "city_code": 13114,
+                "place": "宝福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "正徳元辛卯天十月吉日",
+                "built_year_ce": 1711,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉供養\/庚申塔"
+                ],
+                "image": [
+                    "GDOFPxIMRljiV6OIL6h6DUxsGVxMNo7GmdF5VzsJ.jpg",
+                    "IGsObxSUWcXkUZBL91iMiNk5ZmVwewKMfXaU3UnB.jpg",
+                    "elkGB8cTTjQHo6NhiJdqbaPu51BsWUFZybfEdqfp.jpg"
+                ],
+                "photo_date": "2026-10-17",
+                "mesh_code": 53394513
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43311,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.666196,
+                    35.678999
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-19",
+                "address": "東京都中野区南台４丁目４７",
+                "city_code": 13114,
+                "place": "一本松庚申堂",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "昭和二十五年",
+                "built_year_ce": 1950,
+                "figure": "青面金剛",
+                "comment": [
+                    "合掌六臂    日月邪鬼三猿二鶏     お堂の中、写真はガラス戸越し"
+                ],
+                "image": [
+                    "djGHTb6mT3RYn9AysIgpIDTP7cvQXhyOFH7AZnA0.jpg",
+                    "mhMMdPXdy0A7GZUsBUshLzyF4sqgS05KZOX4HFT9.jpg"
+                ],
+                "photo_date": "2026-10-17",
+                "mesh_code": 53394513
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43312,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.666196,
+                    35.678999
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-10-19",
+                "address": "東京都中野区南台４丁目４７",
+                "city_code": 13114,
+                "place": "一本松庚申堂",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "昭和四十五年四月吉日",
+                "built_year_ce": 1970,
+                "comment": [
+                    "「庚申塚」"
+                ],
+                "image": [
+                    "WVNIl8JNpmq21WJv3ff3oRJ9aOWTpT0LJSgsG72H.jpg",
+                    "9Ql9fMvTZVNDVJVKXJLjL16U6J2aknKJV3HBYkJ3.jpg",
+                    "LWed47eJZtoL6X1LcwzcYwATHsM82YmoESJItBEY.jpg"
+                ],
+                "photo_date": "2026-10-17",
+                "mesh_code": 53394513
+            }
         }
     ]
 }
