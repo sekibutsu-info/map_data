@@ -1101818,6 +1101818,327 @@
                 "photo_date": "2026-10-18",
                 "mesh_code": 56392714
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43345,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.125346,
+                    37.532626
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字金田",
+                "city_code": 7408,
+                "place": "羽黒山神社",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "figure": "青面金剛",
+                "image": [
+                    "1zj3gyy70vHL3ru4oDQV0QE6FHft5bKbrNxMygsF.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402130
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43346,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.14238,
+                    37.536104
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字川桁",
+                "city_code": 7408,
+                "place": "淸神社　参道入り口",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "comment": [
+                    "「湯殿山」"
+                ],
+                "image": [
+                    "jZIILU9TEMSjC6Joel5RjBu1vDvy1Qi0Voaefq34.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402141
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43347,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.142379,
+                    37.536093
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字川桁",
+                "city_code": 7408,
+                "place": "淸神社　参道入り口",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "寛延二己巳年",
+                "built_year_ce": 1749,
+                "comment": [
+                    "「巳待供養塔」"
+                ],
+                "image": [
+                    "R3nh5rCaL54ELPfSjZWmR0rX6NELvmDNLyOmQqr6.jpg",
+                    "mRW15StLhcYFamgMEO6uuv4qvDaJUFlNFP7cSkbr.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402141
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43348,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.143237,
+                    37.536682
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字川桁",
+                "city_code": 7408,
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "元文五庚申年",
+                "built_year_ce": 1740,
+                "comment": [
+                    "「庚申供羪塔」"
+                ],
+                "image": [
+                    "QzHGK8uTXWUgFg5YixxKEu0LvGIKddqkxlYmPSeV.jpg",
+                    "XQYTo7UMM1atdudzpGPnbbhzdsAuKPVoRsCIK83I.jpg",
+                    "mlXRo0ydWeXBLD7t32vA8kXGk3J002XsGpKtJez5.jpg",
+                    "p3v93tkcw45CjsncDqUqdQ5oFkDsBMxqsZvE4ij1.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402141,
+                "place": "淸神社　参道"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43349,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.143239,
+                    37.536679
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字川桁",
+                "city_code": 7408,
+                "place": "淸神社　参道",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "comment": [
+                    "「庚申供羪塔」"
+                ],
+                "image": [
+                    "yRAizOv25dEufr6CKh1gXebyNAeIkC5xFdh68yNA.jpg",
+                    "B5hxIw1fICFKremaL4AI4oi87GY7I0OU2wIVBLHp.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402141
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43350,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.143239,
+                    37.536679
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字川桁",
+                "city_code": 7408,
+                "place": "淸神社　参道",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "寛政六甲寅年",
+                "built_year_ce": 1794,
+                "comment": [
+                    "「庚申供養塔」"
+                ],
+                "image": [
+                    "gBFQ6HH6cC0tnScQk8NZnNz4tcjxfBpYVedFrKH7.jpg",
+                    "7PlOg2guo6gCiIXMCyeryd4rq5YoGyFrPlBWVXrX.jpg",
+                    "901Jqc9zASDSjocIfV7mhyEZLLO5lj8xIgcOIkYt.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402141
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43351,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.181597,
+                    37.502848
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字壺楊",
+                "city_code": 7408,
+                "place": "皇太神宮",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "built_year": "嘉永元戊申年",
+                "built_year_ce": 1848,
+                "comment": [
+                    "「湯殿山供養」"
+                ],
+                "image": [
+                    "EhSRFoTmbpwruHI2cCBmFN0OoZ8zzmWGB6v0tv0E.jpg",
+                    "OkawN5UKUd3KzSSfopA8KWaGZPHsIXJLllhSgLhN.jpg",
+                    "hCyppXRVdfWvo0ol2m88WxYNHcrBT0owI5h0KIjf.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402104
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43352,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.113348,
+                    37.534691
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字堅田",
+                "city_code": 7408,
+                "place": "観音堂境内",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "安政三辰年",
+                "built_year_ce": 1856,
+                "comment": [
+                    "「庚申塔」"
+                ],
+                "image": [
+                    "UEpxJDey4Cl8lDX4MJgVqLiDWZeXadmRJthhIsMj.jpg",
+                    "c8TS23quchstOpUEUB0Hne2qRsWX4U7RHZ3Pq7dk.jpg",
+                    "KzsB7ueuQHnFrD37cwB8wjLha69mckzPQ2nEwZWh.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402049
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43353,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.111288,
+                    37.534698
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字堅田",
+                "city_code": 7408,
+                "place": "入江観音堂",
+                "type": [
+                    "日待塔",
+                    "巳待塔"
+                ],
+                "comment": [
+                    "「巳待塔」"
+                ],
+                "image": [
+                    "mwnTMvzfVZNM5V17TXXHsY5T1sGiZWClrpaFVoeA.jpg",
+                    "y1lG4gqXqpBopAi6WBOjEsEJN34qJJVDYDRmymnx.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402048
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43354,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.111289,
+                    37.534704
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-10-25",
+                "address": "福島県耶麻郡猪苗代町大字堅田",
+                "city_code": 7408,
+                "place": "入江観音堂",
+                "type": [
+                    "日待塔",
+                    "巳待塔"
+                ],
+                "comment": [
+                    "「巳待塔」"
+                ],
+                "image": [
+                    "VFjrkSiImsjEFq5DJ2ez7zOJ1gwXqQYGPnVudk72.jpg",
+                    "BejqN3wQNyzJ6bQumCzfALQVNoedydpUYekaZkYH.jpg"
+                ],
+                "photo_date": "2026-10-18",
+                "mesh_code": 56402048
+            }
         }
     ]
 }
