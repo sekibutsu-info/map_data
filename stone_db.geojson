@@ -1102236,6 +1102236,136 @@
                 "photo_date": "2026-10-26",
                 "mesh_code": 57401285
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43358,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.899512,
+                    35.85702
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-01",
+                "address": "千葉県流山市流山１丁目",
+                "city_code": 12220,
+                "place": "流山浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保元年丙申九月吉日",
+                "built_year_ce": 1716,
+                "figure": "青面金剛",
+                "comment": [
+                    "丸彫型　奉供養青面金剛現当成就所　庚申講中須藤半助ら"
+                ],
+                "image": [
+                    "D5d5NrtP9bi3Fa4suOmhh8pY8gDOI0bnOFxT5He1.jpg",
+                    "y5vafRvy02O4GztIwx3n7QjxJraRumTzhIaFHVG8.jpg",
+                    "HLE1XXq3AgORdfkMqxo82QxN0dtr97WYM1FjOoM6.jpg"
+                ],
+                "photo_date": "2026-10-31",
+                "mesh_code": 53396721
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43359,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.89951,
+                    35.85702
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-01",
+                "address": "千葉県流山市流山１丁目",
+                "city_code": 12220,
+                "place": "流山浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保七壬寅天二月吉日",
+                "built_year_ce": 1722,
+                "figure": "青面金剛",
+                "comment": [
+                    "駒型　奉供養庚申待二世成就所"
+                ],
+                "image": [
+                    "aSREu6GJcVHsf6mhma2C3fehtrifNr8oMUBDB0a9.jpg"
+                ],
+                "photo_date": "2026-10-31",
+                "mesh_code": 53396721
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43360,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.900004,
+                    35.85683
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-01",
+                "address": "千葉県流山市流山１丁目",
+                "city_code": 12220,
+                "place": "流山浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "安永二葵巳九月吉日",
+                "built_year_ce": 1773,
+                "comment": [
+                    "灯籠　「御宝前」　庚講中　施主名多数"
+                ],
+                "image": [
+                    "jfVB1Eeon8PTw2UHYVtfPqTV1O7DwxottNtwVpO2.jpg",
+                    "rjo6fxAu6MBYWnggzeJzZ0eK0Opc1l3VQvFONH1t.jpg",
+                    "wIqNnWu9AepcQMla1M8Rz8Mf2RThGMJzXDOdXOHl.jpg"
+                ],
+                "photo_date": "2026-10-31",
+                "mesh_code": 53396722
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43361,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.900004,
+                    35.85683
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-01",
+                "address": "千葉県流山市流山１丁目",
+                "city_code": 12220,
+                "place": "流山浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "principal": "猿田彦",
+                "comment": [
+                    "自然石型　「猿田彦大神」　富士塚中"
+                ],
+                "image": [
+                    "M9yM8WefwqPaoyHgSSuSqTtNzDuai0B0Y5y8oGHv.jpg",
+                    "BMQhfaNaDgjv9jmNzpJzSspZzkPCDzuMsRy4kL4v.jpg"
+                ],
+                "photo_date": "2026-10-31",
+                "mesh_code": 53396722
+            }
         }
     ]
 }
