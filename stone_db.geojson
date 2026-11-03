@@ -376019,7 +376019,9 @@
                     "ZInRNp6EHqJMvqZ6o4tFV3GqaXWNOfrjChZbKAGZ.jpg"
                 ],
                 "mesh_code": 56393636,
-                "city_code": 7208
+                "city_code": 7208,
+                "built_year": "文化十三丙子年",
+                "built_year_ce": 1816
             }
         },
         {
@@ -1102547,7 +1102549,8 @@
                 "address": "福島県西白河郡西郷村大字羽太",
                 "city_code": 7461,
                 "type": [
-                    "月待塔"
+                    "月待塔",
+                    "二十四夜塔"
                 ],
                 "built_year": "嘉永三戌年",
                 "built_year_ce": 1850,
@@ -1102582,7 +1102585,8 @@
                 "city_code": 7461,
                 "place": "東谷山 大龍寺",
                 "type": [
-                    "月待塔"
+                    "月待塔",
+                    "二十四夜塔"
                 ],
                 "built_year": "慶應三卯年",
                 "built_year_ce": 1867,
@@ -1102615,7 +1102619,8 @@
                 "city_code": 7461,
                 "place": "墓地入り口",
                 "type": [
-                    "月待塔"
+                    "月待塔",
+                    "二十四夜塔"
                 ],
                 "built_year": "文化十三子年",
                 "built_year_ce": 1816,
@@ -1102648,7 +1102653,8 @@
                 "city_code": 7461,
                 "place": "墓地入り口",
                 "type": [
-                    "月待塔"
+                    "月待塔",
+                    "二十四夜塔"
                 ],
                 "built_year": "天保八丁酉年",
                 "built_year_ce": 1837,
