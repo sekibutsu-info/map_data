@@ -1102669,6 +1102669,75 @@
                 "photo_date": "2026-11-02",
                 "mesh_code": 55405193
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43371,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.946181,
+                    37.294104
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-04",
+                "address": "福島県南会津郡下郷町大字高陦",
+                "city_code": 7362,
+                "type": [
+                    "道標"
+                ],
+                "built_year": "享保四己亥年",
+                "built_year_ce": 1719,
+                "comment": [
+                    "「右　芦原□若松□\r\n　左　白岩□田島□」"
+                ],
+                "image": [
+                    "cVP1HfssBi9pCcm3Qb4EvPW3PxG8mrfWmLdhA9Ly.jpg",
+                    "JD4eUlzOhFR0pFpZK12IM9AAlpk8MfdMhQt8m6pG.jpg",
+                    "dFugJs3Cy9xffT8Sf7d9aHFTt0CHONvAadWVGmME.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55397755
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43372,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9604,
+                    37.287737
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-04",
+                "address": "福島県南会津郡下郷町大字枝松",
+                "city_code": 7362,
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "弘化三年",
+                "built_year_ce": 1846,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「二十三夜」"
+                ],
+                "image": [
+                    "jEIntbWIhDCliI0eCStGYSH2WQeSm5a5g8csbap9.jpg",
+                    "WWZiWRxQLkhQFJU0xHgxr07yMdY5vVjq0LDKmmSh.jpg",
+                    "wQ3owHsO5sOdoFDfZ9Fm96w4q1FeSROTTfV6qn17.jpg",
+                    "N5kPey27RTnC2pIV77CDFzTTZzlMPlKZNLbW3GDa.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55397746
+            }
         }
     ]
 }
