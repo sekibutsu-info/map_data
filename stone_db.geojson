@@ -1102738,6 +1102738,34 @@
                 "photo_date": "2026-11-02",
                 "mesh_code": 55397746
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43373,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.915625,
+                    35.158924
+                ]
+            },
+            "properties": {
+                "contributor": "レフ",
+                "created_at": "2026-11-05",
+                "address": "千葉県富津市山中",
+                "city_code": 12226,
+                "place": "日吉神社鳥居",
+                "type": [
+                    "庚申塔"
+                ],
+                "figure": "青面金剛",
+                "image": [
+                    "lLbd6wmKmYZ3JbK9sUXw2DaBacZslurKD3suBs17.jpg",
+                    "R4v8O041D2V4eSeQhGhJwFLInddrbVaCbLWkD8PP.jpg"
+                ],
+                "photo_date": "2026-11-05",
+                "mesh_code": 52395793
+            }
         }
     ]
 }
