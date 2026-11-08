@@ -1102979,43 +1102979,6 @@
         },
         {
             "type": "Feature",
-            "id": 43380,
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140.134972,
-                    37.190243
-                ]
-            },
-            "properties": {
-                "contributor": "holly_b503",
-                "created_at": "2026-11-07",
-                "address": "福島県西白河郡西郷村大字羽太",
-                "city_code": 7461,
-                "place": "八幡神社　境内",
-                "type": [
-                    "月待塔"
-                ],
-                "built_year": "享和二戌年",
-                "built_year_ce": 1802,
-                "figure": "如意輪観音",
-                "project": [
-                    "月待ビンゴ"
-                ],
-                "comment": [
-                    "「十九夜供羪」"
-                ],
-                "image": [
-                    "P0leqGOzZ2lRdskbgmHJyWDAVkNJIE2q5RqAOA97.jpg",
-                    "mJI6t4N10SB6MIZ2mIk3Utyf0S5fhrsdyOexYQND.jpg",
-                    "UdZeekSJ7Vx26x3Gpmk0uGB0ktmQnJvdHG1ssrYM.jpg"
-                ],
-                "photo_date": "2026-11-02",
-                "mesh_code": 55406120
-            }
-        },
-        {
-            "type": "Feature",
             "id": 43381,
             "geometry": {
                 "type": "Point",
@@ -1103045,6 +1103008,374 @@
                 ],
                 "photo_date": "2026-10-31",
                 "mesh_code": 54403021
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43382,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.717867,
+                    35.712479
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "昭和五年",
+                "built_year_ce": 1930,
+                "image": [
+                    "upNuXpWAeF2aBXyD5IsJzU4EkKNZ3dQVLJETvJZs.jpg",
+                    "Fpd9U13iXQOOs3IloM7mz1CIf7AujkMxXxN4JXwz.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43383,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.717867,
+                    35.712479
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "昭和二十五年",
+                "built_year_ce": 1950,
+                "image": [
+                    "RWLlUMlNJXmcRBYSTc9YyBA7spkOtx6VHm14G3bS.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43384,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.717867,
+                    35.712479
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "昭和二十四年",
+                "built_year_ce": 1949,
+                "image": [
+                    "FZRalkDDOZPJRZAG1TWorUd1R5MoMjEneYG7Lez8.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43385,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "嘉永六年",
+                "built_year_ce": 1853,
+                "principal": "青面金剛",
+                "image": [
+                    "yMwcnYw37xoVOurDRtAEEq4ULzl1a84Y7YsMoQl2.jpg",
+                    "ASh10Xfe2WQVkWkBDfZiOvQywyHzoz9UmvTlOqUc.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43386,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "principal": "青面金剛",
+                "image": [
+                    "sNv1i5VTWjVhMGcj82Sgv6eO4It9wgmRGUPnmdZA.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43387,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "image": [
+                    "AhbArU4sjXqZjq3M6yI1p7B3KSXkqrQeH4SDybMM.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43388,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "安永六年",
+                "built_year_ce": 1777,
+                "principal": "青面金剛",
+                "image": [
+                    "0xcAKML6qnKGQPUTHCbR6Sk36JHusizelK4vnuog.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43389,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "天保十三年",
+                "built_year_ce": 1842,
+                "principal": "青面金剛",
+                "image": [
+                    "nejdvbJ0FDVIL97eqElOOfxZULZN1DmRyNhAH8oQ.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43390,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "大正九年",
+                "built_year_ce": 1920,
+                "image": [
+                    "v8i2CVYSk8YW5dVElw5Kv2VNIDMAbMq2Yu291TMm.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43391,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "安政七年",
+                "built_year_ce": 1860,
+                "image": [
+                    "dc1osUbJiy8K7vWsnFVgVH8D273u1qY3okHwQaJZ.jpg",
+                    "oNl1MtR4LY1yM43kmfHpqhCvpzH9S8dhJfoAZq0N.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43392,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "comment": [
+                    "「百庚申塔」\r\n明和 or 明治八年か"
+                ],
+                "image": [
+                    "R5kzt7gpPsG93eMp5Ni5TWNdxUcpK8fYfduPIYTz.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43393,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "image": [
+                    "3xH1WROLIVO7UgfS0eMC2QtdBGwGbNHPCRkU3mj9.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43394,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.718052,
+                    35.71241
+                ]
+            },
+            "properties": {
+                "contributor": "wil397",
+                "created_at": "2026-11-08",
+                "address": "千葉県旭市横根",
+                "city_code": 12215,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "嘉永六年",
+                "built_year_ce": 1853,
+                "principal": "青面金剛",
+                "image": [
+                    "2vGhfiFPoeYwpybX0byC1IYMsN160IK0AxIN6ioZ.jpg",
+                    "Rw1Gn8XlBkV884qPAcmYiFx154MtAq0dBaten8Gz.jpg"
+                ],
+                "photo_date": "2026-09-22",
+                "mesh_code": 53404557
             }
         }
     ]
