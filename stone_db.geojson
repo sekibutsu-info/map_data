@@ -1102946,18 +1102946,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.134972,
-                    37.190243
+                    140.13474,
+                    37.190399
                 ]
             },
             "properties": {
                 "contributor": "holly_b503",
                 "created_at": "2026-11-07",
-                "address": "福島県西白河郡西郷村大字羽太",
-                "city_code": 7461,
                 "place": "八幡神社　境内",
                 "type": [
-                    "月待塔"
+                    "月待塔",
+                    "十九夜塔"
                 ],
                 "built_year": "享和二戌年",
                 "built_year_ce": 1802,
@@ -1102974,6 +1102973,8 @@
                     "RO8JoEMPwpTP4Yf7arm5pb99c0R2xv1iiNartmhO.jpg"
                 ],
                 "photo_date": "2026-11-02",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
                 "mesh_code": 55406120
             }
         },
@@ -1103677,6 +1103678,426 @@
                 ],
                 "photo_date": "2026-11-12",
                 "mesh_code": 52395628
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43405,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.134739,
+                    37.190401
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "八幡神社",
+                "type": [
+                    "月待塔",
+                    "十九夜塔"
+                ],
+                "built_year": "享保七寅年",
+                "built_year_ce": 1722,
+                "figure": "如意輪観音",
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "image": [
+                    "V2xFWsaTTSEDCA8gRwkzQe5YuFLvGvsjYi1pjPXT.jpg",
+                    "7O14NYDOsqAOvFsFTIslsOflGK0UGdD9eYc9LHfH.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406120
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43406,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.134736,
+                    37.190401
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "八幡神社　境内",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "天保十五甲寅年",
+                "built_year_ce": 1844,
+                "comment": [
+                    "「二十三夜供養」"
+                ],
+                "image": [
+                    "keTQrYxWBFm6PEkZTtjajSr7w7WuIyV4B9pNoKsl.jpg",
+                    "75yKNhnmg5GahyEn8qC0szbHps1N54eTj2NOurkz.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406120,
+                "project": [
+                    "月待ビンゴ"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43407,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.134739,
+                    37.190401
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "八幡神社　境内",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "宝暦十二壬午年",
+                "built_year_ce": 1762,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「二十三夜待供羪塔」"
+                ],
+                "image": [
+                    "Bh7UbGp7s90Ribk8Oy8UQcShVyWXEfcaOg8wyAq1.jpg",
+                    "LuFpM3adhDvo3NT86jj1WP9hsoc3slzwpVsMYn6S.jpg",
+                    "4BvHdtS1bNFitUOCQFzMNf5r50is0IQIhs2yc8HG.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406120
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43408,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.134739,
+                    37.1904
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "八幡神社　境内",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "安永九年子",
+                "built_year_ce": 1780,
+                "comment": [
+                    "「庚申供羪塔」"
+                ],
+                "image": [
+                    "np1J7kb91oa3azcC0c4fjyQeiCUIx3x2OHOzZZyd.jpg",
+                    "ru0SmIKTyk0E0NaIO2E3POYL0LjziFML1CqvJDRt.jpg",
+                    "7RW1xt4BVt0T72fgh0TzPwh5YV4ANWF2s0Vp5efy.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406120
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43409,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.134739,
+                    37.1904
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "八幡神社　境内",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "享保十五庚戌年",
+                "built_year_ce": 1730,
+                "comment": [
+                    "「奉詣庚申供養□□□塔」"
+                ],
+                "image": [
+                    "zDcdjYKJjdzRBleqtO70sZJxxn2i8gk2lmprtz3r.jpg",
+                    "iQqRpcONNDCcvwrJgkp60nm1PbKd6a5h3Gh3sA7p.jpg",
+                    "K5sf1eQHGMd6vo0ut1BMoJ8cZZt960KPfz4zEnm1.jpg",
+                    "f7vU2hgybqilJnSLxBOLzgIWnNsubiEy8Qmbcn05.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406120
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43410,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.150181,
+                    37.1788
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "comment": [
+                    "「湯殿山供羪」"
+                ],
+                "image": [
+                    "qjBZAR08ZzVWlnyfSC4oejhFRIotluA8atzDl6hr.jpg",
+                    "mOWkBqDQ9gEJCFIMtMHonLIwoyOv3UK4eP1fAcmK.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406112
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43411,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169424,
+                    37.167318
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社　境内",
+                "type": [
+                    "出羽三山塔",
+                    "湯殿山塔"
+                ],
+                "built_year": "弘化二巳年",
+                "built_year_ce": 1845,
+                "comment": [
+                    "「湯殿山」"
+                ],
+                "image": [
+                    "JYceVXmpxF6vVHBKLrlRSzPE0cAKQVccDre6tT8H.jpg",
+                    "iFgZQiI268GzhSzuj9Ca5nEJzkNxkefiYiB5PhTO.jpg",
+                    "KbEnMnCf97B4MELiTtpV7qubMAvl5H3jsExm4IhQ.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43412,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169749,
+                    37.1675
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社参道（下羽太地区集落センター前）",
+                "type": [
+                    "月待塔",
+                    "十九夜塔"
+                ],
+                "built_year": "天保十己亥年",
+                "built_year_ce": 1839,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「十九夜供養」"
+                ],
+                "image": [
+                    "fpysf3o4bAA0TbgMpkw7j2NeCRa7ZvWbpXRWHV5u.jpg",
+                    "uuLOYbj7e6ixmTgXAa3QjoJN8kNXtnS1rVLUzhgm.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103,
+                "figure": "如意輪観音"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43413,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169749,
+                    37.167499
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社参道（下羽太地区集落センター前）",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "文久元辛酉年",
+                "built_year_ce": 1861,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「廿三夜供羪」"
+                ],
+                "image": [
+                    "tQ9fe6yOpmlXuyY23TpiOip05Q5hzGVnJpEAy62N.jpg",
+                    "mnX99xuVOvMWH74AnMGKLLYQXvCy2aYglnx9kf1j.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43414,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169749,
+                    37.167499
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社参道（下羽太地区集落センター前）",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "文政九丙戌年",
+                "built_year_ce": 1826,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「廿三夜供養塔」"
+                ],
+                "image": [
+                    "ukLJIB9Ow37gFAWyaI6Cayx4GUu7mjlk57BZEJFy.jpg",
+                    "NvTJRTzDeekcUzTtq9c1VxthKBUOkWPt9ZVKtCho.jpg",
+                    "mUlnFas2HX7wvseMmEP6edrBf0C6p9oJ05pAMXvd.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43415,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169747,
+                    37.167498
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社参道（下羽太地区集落センター前）",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "built_year": "宝暦九己丑年",
+                "built_year_ce": 1759,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「二十三夜供養塔」"
+                ],
+                "image": [
+                    "ZiKEEfwP2qwtIDf3Y66CWMEmteIvuX7l8dkBZa8o.jpg",
+                    "LGyritJuIpgPAILAc5kw7VNQc7OThQkxEgb6GdZ6.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43416,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.169749,
+                    37.167499
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-14",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "愛宕神社参道（下羽太地区集落センター前）",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "明和八卯年",
+                "built_year_ce": 1771,
+                "comment": [
+                    "「庚申塔」"
+                ],
+                "image": [
+                    "veJ2DT0MUU1WK3vM5pgmHk7uziBLDispFEkGKTOJ.jpg",
+                    "a57QM1T0OeL21TEbzts9y0voFgWCUEm9YebUxxXc.jpg",
+                    "GjkwPA8rlBmCoOTX2Fq7wcHQrraRzPjK9n7yS7VM.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55406103
             }
         }
     ]
