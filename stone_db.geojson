@@ -1104099,6 +1104099,137 @@
                 "photo_date": "2026-11-02",
                 "mesh_code": 55406103
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43417,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.219006,
+                    37.128209
+                ]
+            },
+            "properties": {
+                "contributor": "qqakko",
+                "created_at": "2026-11-15",
+                "address": "福島県白河市横町",
+                "city_code": 7205,
+                "place": "専念寺",
+                "type": [
+                    "月待塔",
+                    "十九夜塔"
+                ],
+                "built_year": "明治三十一年",
+                "built_year_ce": 1898,
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "image": [
+                    "IaBvY1xrGsZNpHWgMzs2SHywflk3aIDPBe5WBG1Z.jpg",
+                    "UbB5N1VK8y4za2uaKwaSaXwynxi20Xo24N2SxwPh.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 55405157
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43418,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.21903,
+                    37.128202
+                ]
+            },
+            "properties": {
+                "contributor": "qqakko",
+                "created_at": "2026-11-15",
+                "address": "福島県白河市横町",
+                "city_code": 7205,
+                "place": "専念寺",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "image": [
+                    "IMFPjkeWdzzbTUtlCUw0WoaWd01tiuKPlRc1ZtYP.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 55405157
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43419,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.632695,
+                    35.724631
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-15",
+                "address": "東京都中野区鷺宮５丁目１１",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "延享二乙丑年十月吉日",
+                "built_year_ce": 1745,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立庚申尊像 　　武刕多摩郡上鷺宮村」\/「講中二十八人」\/「願主篠太右衛門"
+                ],
+                "image": [
+                    "KTAcbg6rWdR2kNb1KVio2HCXvrKv4wvxsWmgirEH.jpg",
+                    "JKX2PvIMBCPfJ8diLNG8lCE8lm7jYuYYWVaIi11Y.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394560
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43420,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.633312,
+                    35.730351
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-15",
+                "address": "東京都中野区上鷺宮２丁目２３",
+                "city_code": 13114,
+                "place": "北原神社",
+                "type": [
+                    "庚申塔",
+                    "道標"
+                ],
+                "built_year": "明和八辛卯歳十月吉日",
+                "built_year_ce": 1771,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立青面金剛講中二世安樂所 　鷺宮村講中三拾人　願主篠勝右衛門　　是ヨリ右ぬくい道　是ヨリ左やくし道"
+                ],
+                "image": [
+                    "ykrv1cuGuil9Uqqz6ZT3BAOxwetYMEXYytxG4aKi.jpg",
+                    "KqpVhjAuNZGQerWAZ6nmVum7Xzzphvi0pJdO2uUf.jpg",
+                    "3wTgrDeLCPWgS48PFb41y5EHhDhZ8HlNBrkXz2Nk.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394570
+            }
         }
     ]
 }
