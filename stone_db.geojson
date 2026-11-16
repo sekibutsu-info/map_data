@@ -1104230,6 +1104230,598 @@
                 "photo_date": "2026-11-14",
                 "mesh_code": 53394570
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43421,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.649362,
+                    35.720999
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-16",
+                "address": "東京都中野区鷺宮１丁目１",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "正徳四年十月廿八日",
+                "built_year_ce": 1714,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉供養庚申 　さきの宮村　願主八人"
+                ],
+                "image": [
+                    "NcbdPBHe4ADBNtsJI9J6uTvFfjdM6ThKIqBTjaTn.jpg",
+                    "DZPA711lc8nzq0FriBG4So1Skv0Hnq1DV99Mg2FW.jpg",
+                    "jEPVkFT8icB6gCzaqKD7ujcj0ZHvdKpqadUZJY78.jpg",
+                    "fq9BPoFvOUAq2tH86pmiZasFUDOMCrCA4HS4v6bV.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394561
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43422,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.644722,
+                    35.724491
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-16",
+                "address": "東京都中野区鷺宮１丁目３０",
+                "city_code": 13114,
+                "place": "不動堂",
+                "type": [
+                    "庚申塔",
+                    "道標"
+                ],
+                "built_year": "寛政十二庚申十一月廿日",
+                "built_year_ce": 1800,
+                "principal": "青面金剛",
+                "comment": [
+                    "右「天下泰平」左「國家安穏」 　右側面「聖観世音菩薩」「なかのみち」」「南」　左側面「馬頭觀世音菩薩」「ぞうしがやみち」「北」　上鷺宮村願主　大野重良右衛門　大野浅右門　當所拾七人講中」「東」"
+                ],
+                "image": [
+                    "JdWkC8uj8C9EZfY5zSKOfOI9P0OS9gJm1xtju9ko.jpg",
+                    "9zoXB0gyzuqKMv3E7ubHd6OayHO1n4Ohu9qgFYTt.jpg",
+                    "Fdtqtbo1GT8AW8AesYKOdXPa2yPFOjlRMnCHtX18.jpg",
+                    "C3AF9erRSHSknEnjZKDRrWq5fFJk2CfMCUgtgje2.jpg",
+                    "crqKi5LsrfoDUeDkA8jgxhNnVtgCE3ufoyGpFHIA.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394561
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43423,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.635881,
+                    35.72649
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-16",
+                "address": "東京都中野区鷺宮４丁目４６",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄十丁丑年二月大吉日",
+                "built_year_ce": 1697,
+                "comment": [
+                    "奉供養庚申二世祈所  　同行敬白　日月　三猿"
+                ],
+                "image": [
+                    "3ywofFSzKfoDJvc5inC3h3mYP67WvYG8p61lbJ9S.jpg",
+                    "JrLF7f8m3xizVv8iQZ2H5JCP8TdsDi1bCSWtj4dZ.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394570
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43424,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.646868,
+                    35.718351
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-16",
+                "address": "東京都中野区若宮２丁目７",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保十乙巳年十月吉日",
+                "built_year_ce": 1725,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉納爲庚申供養二世安樂　武州多摩郡中野領鷺之宮村　講中十六人　日月邪鬼三猿二鶏"
+                ],
+                "image": [
+                    "fRknD1kdLrJmti7R1gzZcTlCjm3a2CEoLxz70SeH.jpg",
+                    "k4nk2j4ORJaVXFqorHWtGnEl419aZ1mmcI1pxkZy.jpg",
+                    "IJYRsdknRIRccGORLamGGhUQOVPokyYdoz68jsiU.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394561
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43425,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.638751,
+                    35.721312
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-16",
+                "address": "東京都中野区白鷺１丁目３１",
+                "city_code": 13114,
+                "place": "福蔵院",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "天和二壬戌天九月大吉日",
+                "built_year_ce": 1682,
+                "comment": [
+                    "「奉供養庚申二世安樂」　日月三猿　側面に蓮華蓮葉"
+                ],
+                "image": [
+                    "37feSIDkTB3ovSf2MhaFg7cDCKBNziSgIPXSv0I5.jpg",
+                    "EI7FvLCEeVMS5Q2IjaZ2duDKEjAKKUbU8VjdaSaj.jpg",
+                    "6vKeeSvKnvEZgdedr6Ioa3DyvDUBHCF4V5Pu5oNC.jpg"
+                ],
+                "photo_date": "2026-11-14",
+                "mesh_code": 53394561
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43426,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.62296,
+                    35.846067
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県さいたま市桜区田島９丁目１８",
+                "city_code": 11106,
+                "place": "弁天社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "宝暦5",
+                "built_year_ce": 1755,
+                "figure": "青面金剛",
+                "image": [
+                    "YVCjzHdMSnOX4yCKRzcAlL25FlyzVo6KVab7V4bA.jpg",
+                    "PfSyA6QHZUgaXYd0lvOzSHuV8cRyytV9yEL8LDrl.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396419
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43427,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.622956,
+                    35.846065
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県さいたま市桜区田島９丁目１８",
+                "city_code": 11106,
+                "place": "弁天社",
+                "type": [
+                    "巳待塔"
+                ],
+                "built_year": "正徳3",
+                "built_year_ce": 1713,
+                "comment": [
+                    "弁財天主尊\r\n下部に真言が彫られている。"
+                ],
+                "image": [
+                    "s8OqU51rpumpJffvEPV3Ac6i7ajoxxljOlqm0Hl2.jpg",
+                    "YYKEngFp1AcoGnFGMchvsu39W9DH30brkKb9yz3H.jpg",
+                    "zRSF5oTW0F1f5SCWMTObwmaCMJBdvLScaB3bwenQ.jpg",
+                    "Iu3odpKC6nhjD4KyXwTwgaN1TRNAOxPsSxUSC34X.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396419
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43428,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.621619,
+                    35.847739
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県さいたま市桜区新開１丁目６",
+                "city_code": 11106,
+                "place": "真光寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保11",
+                "built_year_ce": 1726,
+                "figure": "青面金剛",
+                "image": [
+                    "Rryg3YpOjuVvEWEuWO9Z9fs1z4zQJrOT4Kl0RgrZ.jpg",
+                    "xvcCT3pfnh4BgjA6C585wDPUIHFByqzeNJcYWmQR.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396419
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43429,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.635471,
+                    35.852387
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県さいたま市南区関１丁目１０",
+                "city_code": 11108,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛政11",
+                "built_year_ce": 1799,
+                "figure": "青面金剛",
+                "image": [
+                    "UKXh9HZ9qJZjMnLTFB5oWe55C1GMY8TkxZKYPKYb.jpg",
+                    "31VZyAxNh3ssvvwJSsRgZZtoz7Y51oUfHeMLMwe7.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396520
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43430,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.635466,
+                    35.852387
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県さいたま市南区関１丁目１０",
+                "city_code": 11108,
+                "place": "東福寺",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "延宝8",
+                "built_year_ce": 1680,
+                "figure": "青面金剛",
+                "image": [
+                    "CnJAHaooJZEMbhGMQJ9xFN5RLnayeRfHBgQKZ9LK.jpg",
+                    "tLBuWwKOea3ALF5uWf7CdvvUZLcQvGnVzXGFXMoN.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396520
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43431,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.584446,
+                    35.851739
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県志木市上宗岡４丁目２７",
+                "city_code": 11228,
+                "place": "浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛延2",
+                "built_year_ce": 1749,
+                "figure": "青面金剛",
+                "comment": [
+                    "邪鬼の肩に流紋"
+                ],
+                "image": [
+                    "c2v3oFZyC6XYzPNDQgZRRM4oRYffRAREzWZlNiNb.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396426
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43432,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.584445,
+                    35.851739
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "埼玉県志木市上宗岡４丁目２７",
+                "city_code": 11228,
+                "place": "浅間神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛文11",
+                "built_year_ce": 1671,
+                "comment": [
+                    "薬師如来主尊\r\n三彭銘"
+                ],
+                "image": [
+                    "konzMCtsfOLTwWzY0KkPhBudgJRIz3MuF2qDKZiU.jpg",
+                    "IXwHSPfcHh8AZzVdOoNd53YgCcZcfJ3KKTKPn9RX.jpg",
+                    "TrlmpjyfD8795aZBRc6bGKJ5GY9jesM7dhR1UdEt.jpg"
+                ],
+                "photo_date": "2026-11-12",
+                "mesh_code": 53396426
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43433,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033904,
+                    36.367403
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "宝永1",
+                "built_year_ce": 1704,
+                "comment": [
+                    "石祠庚申"
+                ],
+                "image": [
+                    "6d6lTzHJaqzyzSRMoOOXdo2wtqJg1mbVEEGn5k4c.jpg",
+                    "2FPIM5skSw2JkbxoV2ioKLWOhykx4WwChMNvhjQf.jpg",
+                    "dbXUvX2cHnw1t8vK9ko1y9jTGdPEL3GVxLdpqDU7.jpg",
+                    "Ptj1E4jQb57eZsSQX3jpUVElh51WUy2GmBTc8pw1.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43434,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0339,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄8",
+                "built_year_ce": 1695,
+                "image": [
+                    "4iuiHlAhqJlvbsmuWMEHxRlM3xewrPU35R2DVNvO.jpg",
+                    "6ymbhnpaCFfR8abOIDF8Ks0TRp9I7BhJDK6Wi9JL.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43435,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033894,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保14",
+                "built_year_ce": 1729,
+                "principal": "青面金剛",
+                "image": [
+                    "3obO0fRgbo725JYajjsqVWgyUrT0W7rU7ly2rTnW.jpg",
+                    "c8VVdwrWu8wKjScVwGfaoKMmufyPmr41u5dS6OFN.jpg",
+                    "FNFGyvhhjU9zzZSSNMNgGFaGOvmIAQ7RQPkhQqjb.jpg",
+                    "sJgClWoBriETn6VlilDfSiBOL74v8WUbHuatClMR.jpg"
+                ],
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43436,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033889,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "figure": "青面金剛",
+                "image": [
+                    "hZrAaiUqTBpE4LIwdEIgDAl8BLOfbxqho5CfuJyg.jpg",
+                    "0e5VmHYF9wDeF1j684XWfYdgFMR9EFHWJUXC59H9.jpg",
+                    "uDJaiatxaLR0ntbnzrVG1KqLwP3lmamVttyXxZxM.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43437,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033884,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄3",
+                "built_year_ce": 1690,
+                "image": [
+                    "Cii0eogYXrqtGgbpjRgC0o7QhSnudgCkGaJrfpJb.jpg",
+                    "7LVydczecfp8ZQWCBoievr288W5LWplhuigR6ZhO.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43438,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033878,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "享保19",
+                "built_year_ce": 1734,
+                "principal": "青面金剛",
+                "image": [
+                    "vxNVq02eKWVEw6RfzHO63G3cYRlHSgmlLLnNmA7k.jpg",
+                    "sRhYLlVwxuj1vgr90HS7LIngyf5F6odlMqCOa4fO.jpg",
+                    "1sYJh2gZCvyPTkpN5STrsyd7cvx9muJkjZWG9Ef9.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43439,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.033873,
+                    36.367401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-16",
+                "address": "群馬県高崎市日高町",
+                "city_code": 10202,
+                "type": [
+                    "道祖神塔"
+                ],
+                "image": [
+                    "s7YJBCr6Xr1z5PTl7dCo1wehKPwIMQBDH2iCYSDw.jpg"
+                ],
+                "photo_date": "2026-11-15",
+                "mesh_code": 54394042
+            }
         }
     ]
 }
