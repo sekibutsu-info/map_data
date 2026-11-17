@@ -1104822,6 +1104822,42 @@
                 "photo_date": "2026-11-15",
                 "mesh_code": 54394042
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43440,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.173698,
+                    37.16314
+                ]
+            },
+            "properties": {
+                "contributor": "holly_b503",
+                "created_at": "2026-11-17",
+                "address": "福島県西白河郡西郷村大字羽太",
+                "city_code": 7461,
+                "place": "墓地入り口",
+                "type": [
+                    "月待塔",
+                    "十九夜塔"
+                ],
+                "built_year": "嘉永元申年",
+                "built_year_ce": 1848,
+                "figure": "子安観音",
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "comment": [
+                    "「十九夜供羪」"
+                ],
+                "image": [
+                    "MoIOT7Ybvnrd52Gfd1G0YVZ33GbFOdqVkSaNBVEn.jpg"
+                ],
+                "photo_date": "2026-11-02",
+                "mesh_code": 55405193
+            }
         }
     ]
 }
