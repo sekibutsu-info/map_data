@@ -1104887,6 +1104887,40 @@
                 "photo_date": "2026-11-08",
                 "mesh_code": 57403391
             }
+        },
+        {
+            "type": "Feature",
+            "id": 43442,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.77094,
+                    38.265524
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-11-19",
+                "address": "宮城県仙台市青葉区下愛子",
+                "city_code": 4101,
+                "place": "青木明神",
+                "type": [
+                    "疫神塔"
+                ],
+                "built_year": "令和２",
+                "built_year_ce": 2020,
+                "comment": [
+                    "「疱瘡神」\r\n碑の背面に　「祈念　新型コロナウイルス感染症禍下　疫病退散」　の文章あり"
+                ],
+                "image": [
+                    "JqeEp381qNg5pDEgj4qdLHJNhhUsKaDR86BOImu3.jpg",
+                    "usOpb8MTqwrbgjZ4dCbAKXV0C15Iips5njgdGly7.jpg",
+                    "9pZXDZp3cHkzYTENTAH6pvFtIwhFWIlPiNh9D19I.jpg",
+                    "3sUEbmKYaRLJfb9IQPKmD5nSAlQj0Ifv6a3KJKUL.jpg"
+                ],
+                "photo_date": "2026-11-19",
+                "mesh_code": 57403611
+            }
         }
     ]
 }
