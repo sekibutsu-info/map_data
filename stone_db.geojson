@@ -1104952,7 +1104952,10 @@
                     "3fxk1fKKFVxcGCJUXbALAWwzv6fZ3gtWaYARfmsz.jpg"
                 ],
                 "photo_date": "2026-11-19",
-                "mesh_code": 57403527
+                "mesh_code": 57403527,
+                "tag": [
+                    "湯殿山中心"
+                ]
             }
         },
         {
@@ -1104982,7 +1104985,10 @@
                     "GKAkcSudAsksJmK6SlJLk1A9xYYMFwV7E1WHKa6D.jpg"
                 ],
                 "photo_date": "2026-11-19",
-                "mesh_code": 57403611
+                "mesh_code": 57403611,
+                "tag": [
+                    "湯殿山中心"
+                ]
             }
         },
         {
@@ -1105432,6 +1105438,68 @@
                 ],
                 "photo_date": "2026-11-02",
                 "mesh_code": 55405187
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43458,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.353262,
+                    37.397232
+                ]
+            },
+            "properties": {
+                "contributor": "strelitziaaugus",
+                "created_at": "2026-11-22",
+                "address": "福島県郡山市開成３丁目１",
+                "city_code": 7203,
+                "place": "開成山大神宮内稲荷神社脇",
+                "type": [
+                    "月待塔",
+                    "二十三夜塔"
+                ],
+                "project": [
+                    "月待ビンゴ"
+                ],
+                "image": [
+                    "LVdLWZNiiUiNQqY5mjwKKekLPpg8TASOJ4jcLAdy.jpg"
+                ],
+                "photo_date": "2026-11-21",
+                "mesh_code": 56400278
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43459,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.771047,
+                    38.265549
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-11-22",
+                "address": "宮城県仙台市青葉区下愛子",
+                "city_code": 4101,
+                "place": "青木明神",
+                "type": [
+                    "日待塔",
+                    "庚申塔"
+                ],
+                "built_year": "明和八",
+                "built_year_ce": 1771,
+                "comment": [
+                    "「青面金剛」　主銘の下に三猿"
+                ],
+                "image": [
+                    "9cLbMSeKIAyx041VeRhTfjED5HtXURK4hFoPOkHJ.jpg"
+                ],
+                "photo_date": "2026-11-19",
+                "mesh_code": 57403611
             }
         }
     ]
