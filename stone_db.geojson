@@ -289829,7 +289829,9 @@
                     "IesTgrbz6BiGKQyn5hlfpCeDiSPpq1DjSZNbaORw.jpg"
                 ],
                 "mesh_code": 54390710,
-                "city_code": 8228
+                "city_code": 8228,
+                "built_year": "大正8",
+                "built_year_ce": 1919
             }
         },
         {
@@ -1105500,6 +1105502,842 @@
                 ],
                 "photo_date": "2026-11-19",
                 "mesh_code": 57403611
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43460,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.913472,
+                    35.99062
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "place": "香取神社",
+                "type": [
+                    "二十三夜塔"
+                ],
+                "built_year": "嘉永5",
+                "built_year_ce": 1852,
+                "image": [
+                    "ipQIP6PnGt6LYMENh17OL0eVYKAOaHRPJIPSJtnP.jpg",
+                    "AvzPN0pXuoEMEFXahBEswyDjrBO4gDEVwi6Pdr0x.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397783
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43461,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.912066,
+                    35.991067
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "明治15",
+                "built_year_ce": 1882,
+                "image": [
+                    "CALwCu71uFuxVlI97zPUSPyW3khUw647z2d43tSQ.jpg",
+                    "ELcrFx9qSs7o2hYa48qb8kiZyBAWO8jsKyKLPTIq.jpg",
+                    "DTNOrSw9gjSKJs8FhoL1vxJZzxzdC0mPlvilrRWO.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397782,
+                "tag": [
+                    "月山中心"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43462,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.911089,
+                    35.991549
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "巳待塔"
+                ],
+                "built_year": "昭和16",
+                "built_year_ce": 1941,
+                "comment": [
+                    "「辨財天」銘"
+                ],
+                "image": [
+                    "XAx70eGeuRLA4bCLl4z7vshiyBRUHlkxnl7Y0xu2.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397782
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43463,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.909845,
+                    35.993046
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "二十三夜塔"
+                ],
+                "built_year": "安永6",
+                "built_year_ce": 1777,
+                "comment": [
+                    "サク種字「大勢至菩薩」銘"
+                ],
+                "image": [
+                    "ZKT4N5SygQPoobkfhzJu8Lpixd7PxbtcxOoFWULm.jpg",
+                    "Jxie8yqgzFIGIy9gqZnGOlU1HRUpyUegD4j55W3N.jpg",
+                    "8edoysyramkmVdoT6ZMBrOkfjxxeATbbooM9wbsB.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397792
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43464,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.915138,
+                    35.992677
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "弘化4",
+                "built_year_ce": 1847,
+                "image": [
+                    "jyGhpJDIpc1Al5CeaMWoYgH1hB8T2Dj8kSxgUNDG.jpg",
+                    "OHzOTUbzkKVJX0UqjWHe1QwpY5jn1V5997iWDTwM.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397793,
+                "tag": [
+                    "湯殿山中心"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43465,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.915901,
+                    35.995524
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "place": "下矢作公民館",
+                "type": [
+                    "甲子塔"
+                ],
+                "built_year": "明治12",
+                "built_year_ce": 1879,
+                "figure": "大黒天",
+                "image": [
+                    "ORQ6Qe2q0GBV07nIj0vAylJZi8z3FFxKiOVznjjh.jpg",
+                    "FTHeqYRY65ylIZn5mir6YzUU4mKuh4JkajeTqhwH.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397793
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43466,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.915896,
+                    35.995524
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "place": "下矢作公民館",
+                "type": [
+                    "十九夜塔"
+                ],
+                "built_year": "天保14",
+                "built_year_ce": 1843,
+                "figure": "如意輪観音",
+                "image": [
+                    "lT8uB6Rrn5Ux6dQVkso8lofhrzn8MNJKX9S1vgTR.jpg",
+                    "ZRuuvKgphTUnW5GJRKur9C42ry29eZa6CiYzrfKt.jpg",
+                    "RystyRiH7PbA6lNVrJY71RkawifaBakrTW94COL8.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397793
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43467,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.910907,
+                    35.999643
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "平成15",
+                "built_year_ce": 2003,
+                "image": [
+                    "8hLSum63S030ce0uXqG7KfAuKklL1xWRW9bL5OWO.jpg",
+                    "dFt38pN3F2GHQDAJfb6eMuEWPzHBSBdGesqpvIrX.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397792
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43468,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.912511,
+                    36.001353
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "place": "大崎農村集落センター",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元文2",
+                "built_year_ce": 1737,
+                "figure": "青面金剛",
+                "image": [
+                    "Z5Ea1DgPa2Cblystleuvmo5rWCZhvpa4jBoT2qVo.jpg",
+                    "IpKbMu7CoeOqsfRbqLSsf8PfM8qkZGxpTMFJgzQp.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390703
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43469,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.912506,
+                    36.001353
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "place": "大崎農村集落センター",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "文化3",
+                "built_year_ce": 1806,
+                "principal": "青面金剛",
+                "image": [
+                    "vdtwxRthh6g05vqbzvI6TBKRw8Rr5W9S5BjSkXzG.jpg",
+                    "nXLBgCY1FaFIcQK0mC7ZJjLZEGdcCswNH1jqn321.jpg"
+                ],
+                "photo_date": "2026-11-22",
+                "mesh_code": 54390703
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43470,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9125,
+                    36.001353
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "place": "大崎農村集落センター",
+                "type": [
+                    "十九夜塔"
+                ],
+                "built_year": "明和6",
+                "built_year_ce": 1769,
+                "figure": "如意輪観音",
+                "image": [
+                    "ExCQoUC0jm9ioGkqr3HlCXzgEPy9YvBgPBwVkek1.jpg",
+                    "w16SRc6XChbeOn7Ums55L571AhQeqZfvAUy8yHYu.jpg",
+                    "sNUwH9s47W3Z2TwxP85WfRsEyRgYog4mQKszMxES.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43471,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.912495,
+                    36.001353
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "place": "大崎農村集落センター",
+                "type": [
+                    "甲子塔"
+                ],
+                "built_year": "明治13",
+                "built_year_ce": 1880,
+                "figure": "大黒天",
+                "image": [
+                    "3P5gKlB0UFeeGLfv67h2lwPzk5N229qlsrT374fa.jpg",
+                    "1faEoJr7XCtu4uZOnjMwYVuwun9zdnvGgKK963Mp.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43472,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.910156,
+                    36.005714
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "type": [
+                    "十九夜塔"
+                ],
+                "figure": "如意輪観音",
+                "image": [
+                    "lpYZvSLhzq4OJy37rY1cKoaJEWnT6NYx3TgvHoWB.jpg",
+                    "Gj6dzlSof46VF49248H70qCaRB2hI4W836F41czt.jpg",
+                    "blOZFkhCP5273dLvcKUaxMIeFkNeDGRqVy3T3I5c.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43473,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.910151,
+                    36.005714
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "type": [
+                    "十九夜塔"
+                ],
+                "figure": "如意輪観音",
+                "image": [
+                    "vGdr5KlqxvtAyY1796eP2dRUsVLICYBGUo5twmKy.jpg",
+                    "8xWk9kHdFQCYQbOTyuoSSkQn74fugrzHYfGk1YP2.jpg",
+                    "pO9eGNziK385IwVdxEMSnLRFS0QgQBWqVUBlMib9.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43474,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.910971,
+                    36.005944
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市大崎",
+                "city_code": 8228,
+                "type": [
+                    "道標"
+                ],
+                "image": [
+                    "HWVEyz6qxn2ZAlz0xxShrplgWvIxwQOSGwbcDauG.jpg",
+                    "mrJkD8z2eMhT28Zsi4pST86u17V2UDx68OPWXlaB.jpg",
+                    "b3tfmbzWTWIfOLhnQ5I6qeLV8jb30DNDdB8TP44j.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43475,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.905001,
+                    36.003401
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "道祖神塔"
+                ],
+                "built_year": "明治28",
+                "built_year_ce": 1895,
+                "image": [
+                    "XgPf4OZCRrdTiHdX8RVsuijO8kySlo9pF47djxx9.jpg",
+                    "FT1LLZ3FFjF5DnsdWC7DikAZVXHBZxLRuHUiHFVc.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390702
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43476,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898907,
+                    36.001935
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "道祖神塔"
+                ],
+                "image": [
+                    "RgUtls0h6kYRCVK5BhkvCw7R6TVeUvABlhS9oeMu.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43477,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.899132,
+                    36.003935
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治18",
+                "built_year_ce": 1885,
+                "image": [
+                    "bUSXN4nUqyZw2CyEjHMtmoteko8zhXlE5f1MC7Jf.jpg",
+                    "NHJOVbIM3qcRlqeR3wK4kdor2rSwmu7Wh47hWzKE.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43478,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.899239,
+                    36.004591
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治38",
+                "built_year_ce": 1905,
+                "image": [
+                    "EaWSdxLQWOv7lIBD42uEsVf8f4M1Tch3o68tKdQT.jpg",
+                    "N1pzRXT8bHhHQKGSmBpRs0tevCYe2XDU6esTb187.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43479,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.899234,
+                    36.004591
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "文久3",
+                "built_year_ce": 1863,
+                "image": [
+                    "hgxUrdUtla2SUSrwZaHAViE2DBeaIBv2ucMmGL2h.jpg",
+                    "uOkcHO4jhYz4kEL4pa2ObmSYIaga4E6Uu82dDeWl.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43480,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.899159,
+                    36.005827
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治21",
+                "built_year_ce": 1888,
+                "image": [
+                    "yOOYohcho0fuB3MxTnbJEhgfaivndxWMSS8Wqeaw.jpg",
+                    "YtF7eXfmuFUfbCAxvXS3yGUii9DVPeBuQpcXzLD1.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43481,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898848,
+                    36.006496
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治41",
+                "built_year_ce": 1908,
+                "image": [
+                    "6LmF72JoNiPpZy9IGrkwwNdFKqkmiT7jFjjwvnCq.jpg",
+                    "37FFsf3hwT6scEl48tcuzKxIHGWe653KHbrymWE6.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43482,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.897088,
+                    36.00627
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治36",
+                "built_year_ce": 1903,
+                "image": [
+                    "R2sr0GWR0lt1KX9Y0qeEpmTf1wbrYTGGBj6IG81F.jpg",
+                    "vgXwJ9Ar7fnAxSo0NmDf1pwy8lr8dTKow5BDo5TO.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43483,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.895125,
+                    36.00535
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "place": "上矢作新田坪共同墓地",
+                "type": [
+                    "十九夜塔"
+                ],
+                "built_year": "文政9",
+                "built_year_ce": 1826,
+                "figure": "如意輪観音",
+                "image": [
+                    "rX04bwwwgJG6CCEWYXDGSB0WWzftTq6t3dQUd70V.jpg",
+                    "WyqCvsJVpCDnIewRE75TZ0HarMjKtFWA9eS7xjxu.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43484,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.893215,
+                    36.005098
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市矢作",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治8",
+                "built_year_ce": 1875,
+                "image": [
+                    "MLLNJm2c1ueFi77UjuBmvYb9dE3MyguzPtVZgwK5.jpg",
+                    "2vozICjebrmDxDvJslCCjEVhi3GhvULL2wRpJj36.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390701
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43485,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.881163,
+                    36.006164
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市小山",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "image": [
+                    "eoyKBx20srGufnQ3bojPMWXU4n0qHmsn21r4UR3v.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390700
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43486,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.880689,
+                    36.007832
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市小山",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "昭和20",
+                "built_year_ce": 1945,
+                "image": [
+                    "8ab2ONHXg7shHPa7mWVpDgHTINts8V35Q3ZPqMih.jpg",
+                    "IKFH2uAeN4bpxy6vada7XhV69FkLWYSTYhuB9sgy.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390700
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43487,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.881049,
+                    36.009338
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市小山",
+                "city_code": 8228,
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治23",
+                "built_year_ce": 1890,
+                "image": [
+                    "cnp094bdPCprOeaIjQ5Rgu1OfPYYQ8KZYfs8OhdV.jpg",
+                    "eTmAm58pYwQGKHVSmadg3BvVvtO8NMIGgcngcvKD.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 54390710
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43488,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.893746,
+                    35.993641
+                ]
+            },
+            "properties": {
+                "contributor": "sekinema",
+                "created_at": "2026-11-23",
+                "address": "茨城県坂東市莚打",
+                "city_code": 8228,
+                "place": "香取神社",
+                "type": [
+                    "御嶽山塔"
+                ],
+                "built_year": "明治4",
+                "built_year_ce": 1871,
+                "image": [
+                    "Sn325pJ21szyrV7dA2IgjGrHvNxYoqO4NQbt6vio.jpg",
+                    "1MGVQt1GfV6QScQX782rrZkVY6kSOyvyyZwz27Z3.jpg"
+                ],
+                "photo_date": "2026-11-20",
+                "mesh_code": 53397791
             }
         }
     ]
