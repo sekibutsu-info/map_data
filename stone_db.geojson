@@ -1105744,7 +1105744,10 @@
                     "dFt38pN3F2GHQDAJfb6eMuEWPzHBSBdGesqpvIrX.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 53397792
+                "mesh_code": 53397792,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106029,7 +1106032,10 @@
                     "NHJOVbIM3qcRlqeR3wK4kdor2rSwmu7Wh47hWzKE.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106057,7 +1106063,10 @@
                     "N1pzRXT8bHhHQKGSmBpRs0tevCYe2XDU6esTb187.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106113,7 +1106122,10 @@
                     "YtF7eXfmuFUfbCAxvXS3yGUii9DVPeBuQpcXzLD1.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106141,7 +1106153,10 @@
                     "37FFsf3hwT6scEl48tcuzKxIHGWe653KHbrymWE6.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106169,7 +1106184,10 @@
                     "vgXwJ9Ar7fnAxSo0NmDf1pwy8lr8dTKow5BDo5TO.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106227,7 +1106245,10 @@
                     "2vozICjebrmDxDvJslCCjEVhi3GhvULL2wRpJj36.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390701
+                "mesh_code": 54390701,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106252,7 +1106273,10 @@
                     "eoyKBx20srGufnQ3bojPMWXU4n0qHmsn21r4UR3v.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390700
+                "mesh_code": 54390700,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106280,7 +1106304,10 @@
                     "IKFH2uAeN4bpxy6vada7XhV69FkLWYSTYhuB9sgy.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390700
+                "mesh_code": 54390700,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106308,7 +1106335,10 @@
                     "eTmAm58pYwQGKHVSmadg3BvVvtO8NMIGgcngcvKD.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 54390710
+                "mesh_code": 54390710,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106337,7 +1106367,376 @@
                     "1MGVQt1GfV6QScQX782rrZkVY6kSOyvyyZwz27Z3.jpg"
                 ],
                 "photo_date": "2026-11-20",
-                "mesh_code": 53397791
+                "mesh_code": 53397791,
+                "tag": [
+                    "御嶽三座"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43489,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.707632,
+                    38.2965
+                ]
+            },
+            "properties": {
+                "contributor": "あべまき",
+                "created_at": "2026-11-24",
+                "address": "宮城県仙台市青葉区芋沢",
+                "city_code": 4101,
+                "place": "日月神社",
+                "type": [
+                    "出羽三山塔"
+                ],
+                "built_year": "明治３１",
+                "built_year_ce": 1898,
+                "image": [
+                    "v1B36ljRPxJaAXM9Ku3XOi9J2eheVPsdQucuHAEi.jpg",
+                    "ngrmYR5bCJiRcGlYydypKQJfYfnT9odYisFmsqqA.jpg",
+                    "RIuBMJsEhqz4dj70GNC2TOmDrbHs6w0FQtXRMenV.jpg"
+                ],
+                "photo_date": "2026-11-19",
+                "mesh_code": 57403556,
+                "tag": [
+                    "湯殿山中心"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43490,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.667606,
+                    35.713965
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区新井５丁目３",
+                "city_code": 13114,
+                "place": "新井薬師",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛文三天癸卯十一月吉日",
+                "built_year_ce": 1663,
+                "figure": "阿弥陀如来",
+                "comment": [
+                    "奉唱念庚申供養諸願成就処 　奉供養念佛爲二世安樂處"
+                ],
+                "image": [
+                    "hPOYmk8GM6bLxVPa2WoKE7adNGNANqXgQ9PZbsLx.jpg",
+                    "kGhgCqwc6VDJdSSpb8nVdPOeAqXn7iRcxBL9n2gd.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394553
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43491,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.667601,
+                    35.713965
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区新井５丁目３",
+                "city_code": 13114,
+                "place": "新井薬師",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄七年甲戌十一月廿日",
+                "built_year_ce": 1694,
+                "figure": "青面金剛",
+                "comment": [
+                    "日月三猿"
+                ],
+                "image": [
+                    "4pcRYtmHWeEtdViErdGOnyRDISsnOFrR4ayzfkVl.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394553
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43492,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.667601,
+                    35.713965
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区新井５丁目３",
+                "city_code": 13114,
+                "place": "新井薬師",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄十四辛巳十月十九日",
+                "built_year_ce": 1701,
+                "figure": "青面金剛",
+                "comment": [
+                    "境内の左隅の無縁仏塔の中 　日月三猿"
+                ],
+                "image": [
+                    "dXJFYgBNq9TbzNZGjTfhBwR58pzSQOWfuCvObPe6.jpg",
+                    "SU40pDvcjnNSkwsePP13TKDniJ2mozZukQSXQ8Hw.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394553
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43493,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.667601,
+                    35.713965
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区新井５丁目３",
+                "city_code": 13114,
+                "place": "新井薬師",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "宝暦四甲戌十二月吉日",
+                "built_year_ce": 1754,
+                "figure": "青面金剛",
+                "comment": [
+                    "両側面はセメントで固められ判読不能。資料によれば「宝暦四甲戌十二月吉日」（1754）「奉納庚申講中」　日月邪鬼三猿二鶏"
+                ],
+                "image": [
+                    "pYHYGuYCApolRh7fpxbvRd0nEvUvF52SLLXLJUXo.jpg",
+                    "l4iTT0LPedYZrcorEmY9WyV10Ib312sUVR6lbcts.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394553
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43494,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.667601,
+                    35.713965
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区新井５丁目３",
+                "city_code": 13114,
+                "place": "新井薬師",
+                "type": [
+                    "庚申塔"
+                ],
+                "figure": "青面金剛",
+                "image": [
+                    "UufBgUB5MPPDaEtg9myGdL4BtgB520YZGjHPNi8v.jpg",
+                    "COAc2kLStXBkYYtoDINKk8y6FMNSQCPCygZ9rWaE.jpg",
+                    "Mry0aTVTmAyF3DqnXLeevdviXOqAInosqQomIgyO.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394553
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43495,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.650617,
+                    35.713398
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区大和町２丁目４２－１１",
+                "city_code": 13114,
+                "place": "厄除不動堂",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄七甲戌天十一月日",
+                "built_year_ce": 1694,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立青面金剛一躯二世安樂処　武州多麻郡大場村"
+                ],
+                "image": [
+                    "oVNOEMD5kijCnF9Vub5cEhmXhzFXpWy0FNEiwc1j.jpg",
+                    "jPqRGzsAUjYysPArEwiYGxyzoXJFtjtWxP22Rc73.jpg",
+                    "RLSBM0TFAiQ1oKXZCZifd6bO4L2wcEv3GytMMhLY.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394552
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43496,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.650617,
+                    35.713398
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区大和町２丁目４２－１１",
+                "city_code": 13114,
+                "place": "厄除不動堂",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寶暦十三癸未年十月吉祥日",
+                "built_year_ce": 1763,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立庚申尊像講中家内安全祈所攸 　武列多摩郡上沼袋村大場"
+                ],
+                "image": [
+                    "Q92D5VV87v9D6lecIHZJWywIHxWBjFQlbJzAd2K2.jpg",
+                    "QZ5sd1o2uNjDryBUv8cBaxLHfsyoJTY1ZqAmDLt8.jpg",
+                    "M8VtR7IrDrPxCV8xqFh67jjoDowTEHguPI8sB2ho.jpg",
+                    "Yd6d10DRNLi93K6FjEZJWUvChUlKD1oR4Fzu5nO7.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394552
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43497,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.656524,
+                    35.714291
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区野方２丁目１４",
+                "city_code": 13114,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "貞享四丁卯天十月善日",
+                "built_year_ce": 1687,
+                "comment": [
+                    "南向地蔵 　奉供養庚申待二世安樂所　武列多麻郡沼袋村"
+                ],
+                "image": [
+                    "UdfOdn6wD4Lh5ddBtxQXRGnLmMpVTnjR3qgwNM3i.jpg",
+                    "zX72qMLFq1rfGB4l3HYptSvnddPF4Y0ajGjrG1C7.jpg",
+                    "ljEJkllSVHgF6RMY1IUbKtgxxyBS3ong1zljqslt.jpg",
+                    "Dh0oGCDAfBLj12tYzpGQ5EeSFl9belPKkvvwlOhZ.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394552
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43498,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.671997,
+                    35.707298
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区中野５丁目８",
+                "city_code": 13114,
+                "place": "北野神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄五壬申天霜月十五日",
+                "built_year_ce": 1692,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉供養庚申"
+                ],
+                "image": [
+                    "aLCHRqXeo3CtF9fTvujSiUAJlK6D4yx3SCeVklj6.jpg",
+                    "U7jn4PpkSowmx4M36wQCGlKyFUsOxN5Tnd1yZdBj.jpg",
+                    "Upj2xElbaeGxu8PJmuBXZX2A7V11NoSAtsqCMUMP.jpg",
+                    "0qGOjgbC8vVLcTnYPviJejFSWzAPeDDHS5JWF3Md.jpg",
+                    "sEDS6hI2IOMbC0j3h1yx5FjbBydX4fimxdfHYeDr.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394543
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43499,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.671997,
+                    35.707298
+                ]
+            },
+            "properties": {
+                "contributor": "やぶじ～３",
+                "created_at": "2026-11-24",
+                "address": "東京都中野区中野５丁目８",
+                "city_code": 13114,
+                "place": "北野神社",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "元禄十四辛巳十月七日",
+                "built_year_ce": 1701,
+                "figure": "青面金剛",
+                "comment": [
+                    "奉造立庚申爲講衆二世安樂也"
+                ],
+                "image": [
+                    "l4uJ2IhVtLf5jjll35e7e245hTwykZYHqMrH9vjl.jpg",
+                    "CnsIt6EyKJ5wAYaQPKE0lykd8cDdsQXxVP8EPHXm.jpg",
+                    "YQZAUiO28g8QiWvkMZ75436HCQ1jZ8n3gWEZm08l.jpg"
+                ],
+                "photo_date": "2026-11-23",
+                "mesh_code": 53394543
             }
         }
     ]
