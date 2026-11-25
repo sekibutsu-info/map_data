@@ -863451,7 +863451,10 @@
                 "photo_date": "2025-05-18",
                 "address": "茨城県常総市大塚戸町",
                 "city_code": 8211,
-                "mesh_code": 54390714
+                "mesh_code": 54390714,
+                "tag": [
+                    "御嶽三座"
+                ]
             }
         },
         {
@@ -1106737,6 +1106740,39 @@
                 ],
                 "photo_date": "2026-11-23",
                 "mesh_code": 53394543
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43500,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.932947,
+                    35.200253
+                ]
+            },
+            "properties": {
+                "contributor": "レフ",
+                "created_at": "2026-11-25",
+                "address": "千葉県富津市岩本",
+                "city_code": 12226,
+                "place": "路傍",
+                "type": [
+                    "庚申塔"
+                ],
+                "built_year": "寛文十一年",
+                "built_year_ce": 1671,
+                "figure": "青面金剛",
+                "image": [
+                    "XfyqhRo8EXunmGMfWXKXaUbBKX4plfMCnK55LDia.jpg",
+                    "RypE6jp9dgN9q9QnRfvkgZb79So0Qh4X5tMv5JFq.jpg",
+                    "e9iD2lyY4YEhQGq4VzdVxF4cd7IurgLYHendchr2.jpg",
+                    "Xx3vJ10MdJZx8sZKXbrR0OtvzUxBfG2mruMIEJof.jpg",
+                    "Yy9xAIgasfdirJGFrnVAy6opTVt8Pi8ZdGIGqgV7.jpg"
+                ],
+                "photo_date": "2026-11-25",
+                "mesh_code": 52396744
             }
         }
     ]
